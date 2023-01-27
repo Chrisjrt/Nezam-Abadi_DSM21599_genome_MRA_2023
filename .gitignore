@@ -9,7 +9,7 @@ data/processed/reads
 # ignore the database folder
 code/dbs/
 
-# ignore the programs folder
+# ignore programs folder
 code/programs/
 
 # ignore the assembly files except the main output scaffold file
