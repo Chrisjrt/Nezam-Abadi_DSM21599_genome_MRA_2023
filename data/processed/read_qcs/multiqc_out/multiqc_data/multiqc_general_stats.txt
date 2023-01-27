@@ -1,0 +1,5 @@
+Sample	fastp_mqc-generalstats-fastp-pct_duplication	fastp_mqc-generalstats-fastp-after_filtering_q30_rate	fastp_mqc-generalstats-fastp-after_filtering_q30_bases	fastp_mqc-generalstats-fastp-after_filtering_gc_content	fastp_mqc-generalstats-fastp-pct_surviving	fastp_mqc-generalstats-fastp-pct_adapter	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+gen_25199_1	14.126800000000001	0.940815	881172287.0	0.386231	99.72554315330791	0.0851078723323582	31.21406291486724	38.0	135.96506121350734	9.090909090909092	3419180.0
+gen_25199_1_final							31.225301687137346	38.0	135.96506121350734	9.090909090909092	3419180.0
+gen_25199_2							31.386117872310948	38.0	135.96611409753217	0.0	3419180.0
+gen_25199_2_final							31.4001658023426	38.0	135.96611409753217	0.0	3419180.0

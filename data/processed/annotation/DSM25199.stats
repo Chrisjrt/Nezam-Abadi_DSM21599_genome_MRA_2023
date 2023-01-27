@@ -1,0 +1,10 @@
+Total messages:		9
+
+=================================================================
+9 WARNING-level messages exist
+
+SEQ_FEAT.ProteinNameEndsInBracket:	1
+SEQ_FEAT.BadEcNumberValue:	6
+SEQ_FEAT.InvalidPseudoQualifier:	2
+
+=================================================================

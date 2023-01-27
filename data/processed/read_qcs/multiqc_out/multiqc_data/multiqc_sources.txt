@@ -1,0 +1,6 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	gen_25199_1	/data/san/data0/users/chris/Nezam-Abadi_DSM21599_genome_MRA_2023/data/processed/read_qcs/trimmed_reads/gen_25199_trimmed_fastp.json
+FastQC	all_sections	gen_25199_1	/data/san/data0/users/chris/Nezam-Abadi_DSM21599_genome_MRA_2023/data/processed/read_qcs/trimmed_reads/gen_25199_1_trimmed_fastqc.zip
+FastQC	all_sections	gen_25199_2	/data/san/data0/users/chris/Nezam-Abadi_DSM21599_genome_MRA_2023/data/processed/read_qcs/trimmed_reads/gen_25199_2_trimmed_fastqc.zip
+FastQC	all_sections	gen_25199_1_final	/data/san/data0/users/chris/Nezam-Abadi_DSM21599_genome_MRA_2023/data/processed/read_qcs/phix_removal/gen_25199_1_final_fastqc/fastqc_data.txt
+FastQC	all_sections	gen_25199_2_final	/data/san/data0/users/chris/Nezam-Abadi_DSM21599_genome_MRA_2023/data/processed/read_qcs/phix_removal/gen_25199_2_final_fastqc/fastqc_data.txt

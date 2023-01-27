@@ -1,0 +1,11 @@
+PASS	Basic Statistics	gen_25199_2.fq.gz
+PASS	Per base sequence quality	gen_25199_2.fq.gz
+PASS	Per tile sequence quality	gen_25199_2.fq.gz
+PASS	Per sequence quality scores	gen_25199_2.fq.gz
+WARN	Per base sequence content	gen_25199_2.fq.gz
+PASS	Per sequence GC content	gen_25199_2.fq.gz
+PASS	Per base N content	gen_25199_2.fq.gz
+PASS	Sequence Length Distribution	gen_25199_2.fq.gz
+WARN	Sequence Duplication Levels	gen_25199_2.fq.gz
+PASS	Overrepresented sequences	gen_25199_2.fq.gz
+PASS	Adapter Content	gen_25199_2.fq.gz

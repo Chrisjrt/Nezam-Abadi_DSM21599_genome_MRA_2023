@@ -1,0 +1,8 @@
+phix_path:
+  ['/data/san/data0/users/chris/Programs/mambaforge/envs/bbmap/opt/bbmap-39.01-0/resources/phix174_ill.ref.fa.gz']
+
+bakta_path:
+  ['/data/san/data0/databases/bakta/db/']
+
+gtdbtk_path:
+  ['/data/san/data0/databases/gtdbtk/']

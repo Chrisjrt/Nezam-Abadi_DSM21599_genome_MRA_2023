@@ -1,0 +1,27 @@
+# ignore all hidden files except the gitignore
+.*
+!/.gitignore
+
+# ignore the raw reads folder
+data/raw/reads
+data/processed/reads
+
+# ignore the database folder
+code/dbs/
+
+# ignore the programs folder
+code/programs/
+
+# ignore the assembly files except the main output scaffold file
+data/processed/assemblies/spades_gen_25199/
+!data/processed/assemblies/spades_gen_25199/scaffolds.fasta
+
+# ignore the gtdbtk files except the main output table
+data/processed/annotation/gtdbtk_out/
+!data/processed/annotation/gtdbtk_out/gtdbtk.bac120.summary.tsv
+
+# ignore accessory checkm files except main outputs
+data/processed/assemblies/checkm/
+!data/processed/assemblies/checkm/checkm.log
+!data/processed/assemblies/checkm/lineage.ms
+!data/processed/assemblies/checkm/results.tsv

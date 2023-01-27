@@ -1,0 +1,2 @@
+Sample	command
+gen_25199_1	fastp -i data/processed/reads/gen_25199_1.fq.gz -I data/processed/reads/gen_25199_2.fq.gz -o data/processed/reads/gen_25199_1_trimmed.fastq.gz -O data/processed/reads/gen_25199_2_trimmed.fastq.gz -w 5 -j data/processed/read_qcs/trimmed_reads/gen_25199_trimmed_fastp.json -h data/processed/read_qcs/trimmed_reads/gen_25199_trimmed_fastp.html --length_required 60 --detect_adapter_for_pe --cut_front --cut_tail --cut_window_size 4 --cut_mean_quality 20 --trim_front1 10 
