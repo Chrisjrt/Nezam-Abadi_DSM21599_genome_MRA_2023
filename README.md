@@ -93,6 +93,14 @@ Create our snakemake environment using the below command. Change environment nam
 mamba env create -n snakemake -f code/envs/snakemake.yaml
 ```
 
+## Run the workflow
+
+The command used here to run the snakemake workflow was:
+
+```
+snakemake -j <no. of threads you want to use> --use-conda
+```
+
 ## Overview
 
 ```
